@@ -1,2 +1,28 @@
-# 2df7b133-fashion-apparel-screenshot-and
-What if have the information you need right in your browser took minutes instead of hours?  Under 1MB. Zero performance impact on browser speed. Works directly in Chrome, Edge, and Brave — no switching apps required.  ## What's Included  - Fashion Apparel Screenshot And Annotation Tool — fully configured and ready to use - One-click activation dire
+# Fashion Apparel Screenshot and Annotation Tool Chrome Extension
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic functionality | Yes | Yes |
+| Community support | Yes | Yes |
+| Standard features | Yes | Yes |
+| Advanced automation | - | Yes |
+| Priority support | - | Yes |
+| Custom configurations | - | Yes |
+| Auto-updates | - | Yes |
+| Premium integrations | - | Yes |
+| Unlimited usage | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/5kQ8wP6mXf6Qe006fycZB2P)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ8wP6mXf6Qe006fycZB2P)
+
